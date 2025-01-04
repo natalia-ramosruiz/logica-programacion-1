@@ -13,19 +13,19 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     margin-top: 20px;
-    background-color: #4CAF50;
+    background-color:rgb(104, 211, 131);
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 button:hover {
-    background-color: #45a049;
+    background-color:lightblue;
 }
 #resultado {
     margin-top: 20px;
     font-size: 18px;
-    color: #333;
+    color: black;
     background-color: #e8f5e9;
     padding: 15px;
     border-radius: 10px;
